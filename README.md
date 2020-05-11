@@ -1,4 +1,3 @@
-<a href="http://fvcproductions.com"><img src="../assets/images/logo.png" title="FVCproductions" alt="FVCproductions"></a>
 
 # dynamicly (track expenses server)
 
